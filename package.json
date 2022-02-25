@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line driven game that takes prompts to defeat enemies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclanc7507/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "node.js",
+    "command"
+  ],
+  "author": "jclanc7507",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclanc7507/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/jclanc7507/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
